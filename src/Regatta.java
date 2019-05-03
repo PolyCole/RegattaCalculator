@@ -148,6 +148,7 @@ public class Regatta
 		}
 	}
 	
+	// Class representing a single boat in the regatta. Includes name, time, and class. 
 	class boat
 	{
 		/**
